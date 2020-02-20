@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\webprojake\\projectV1\\rar\\Project v.1\\Project v.1\\Project v.1.csproj": {}
+    "D:\\New folder (3)\\Project v.1\\Project v.1\\Project v.1.csproj": {}
   },
   "projects": {
-    "D:\\webprojake\\projectV1\\rar\\Project v.1\\Project v.1\\Project v.1.csproj": {
+    "D:\\New folder (3)\\Project v.1\\Project v.1\\Project v.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\webprojake\\projectV1\\rar\\Project v.1\\Project v.1\\Project v.1.csproj",
+        "projectUniqueName": "D:\\New folder (3)\\Project v.1\\Project v.1\\Project v.1.csproj",
         "projectName": "Project v.1",
-        "projectPath": "D:\\webprojake\\projectV1\\rar\\Project v.1\\Project v.1\\Project v.1.csproj",
+        "projectPath": "D:\\New folder (3)\\Project v.1\\Project v.1\\Project v.1.csproj",
         "packagesPath": "C:\\Users\\wawa\\.nuget\\packages\\",
-        "outputPath": "D:\\webprojake\\projectV1\\rar\\Project v.1\\Project v.1\\obj\\",
+        "outputPath": "D:\\New folder (3)\\Project v.1\\Project v.1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wawa\\AppData\\Roaming\\NuGet\\NuGet.Config",

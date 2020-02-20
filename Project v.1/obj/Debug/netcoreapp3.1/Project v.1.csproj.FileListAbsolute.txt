@@ -240,3 +240,124 @@ D:\webprojake\projectV1\rar\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Proj
 D:\webprojake\projectV1\rar\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Project v.1.csproj.CopyComplete
 D:\webprojake\projectV1\rar\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Project v.1.dll
 D:\webprojake\projectV1\rar\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Project v.1.pdb
+D:\New folder (3)\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Project v.1.csprojAssemblyReference.cache
+D:\New folder (3)\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\staticwebassets\Project v.1.StaticWebAssets.Manifest.cache
+D:\New folder (3)\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\staticwebassets\Project v.1.StaticWebAssets.xml
+D:\New folder (3)\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Project v.1.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder (3)\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Project v.1.RazorAssemblyInfo.cache
+D:\New folder (3)\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Project v.1.RazorAssemblyInfo.cs
+D:\New folder (3)\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Project v.1.AssemblyInfoInputs.cache
+D:\New folder (3)\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Project v.1.AssemblyInfo.cs
+D:\New folder (3)\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Project v.1.TagHelpers.input.cache
+D:\New folder (3)\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Project v.1.TagHelpers.output.cache
+D:\New folder (3)\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Project v.1.RazorCoreGenerate.cache
+D:\New folder (3)\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Project v.1.dll
+D:\New folder (3)\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Project v.1.pdb
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\Project v.1.exe
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\Project v.1.deps.json
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\Project v.1.runtimeconfig.json
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\Project v.1.runtimeconfig.dev.json
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\Project v.1.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\Project v.1.pdb
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\Project v.1.Views.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\Project v.1.Views.pdb
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\DnsClient.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\SharpCompress.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder (3)\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+D:\New folder (3)\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Delete.cshtml.g.cs
+D:\New folder (3)\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+D:\New folder (3)\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+D:\New folder (3)\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\New folder (3)\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+D:\New folder (3)\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\New folder (3)\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Razor\Views\Home\register.cshtml.g.cs
+D:\New folder (3)\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Razor\Views\Home\register_job.cshtml.g.cs
+D:\New folder (3)\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\New folder (3)\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\New folder (3)\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\New folder (3)\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\New folder (3)\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\New folder (3)\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Project v.1.RazorTargetAssemblyInfo.cache
+D:\New folder (3)\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Project v.1.RazorTargetAssemblyInfo.cs
+D:\New folder (3)\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Project v.1.Views.pdb
+D:\New folder (3)\Project v.1\Project v.1\obj\Debug\netcoreapp3.1\Project v.1.csproj.CopyComplete
